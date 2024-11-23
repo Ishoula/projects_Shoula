@@ -30,7 +30,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
         <tbody>
         <tr>
         <td>Names</td>
-        <td>$fname + $lname</td>
+        <td>$fname . $lname</td>
         </tr>
         <tr>
         <td>Date of birth</td>
